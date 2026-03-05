@@ -1,6 +1,6 @@
 # The Shape of Beta: Industry Factor Structure and Crisis Risk Premium
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18877400.svg)](https://doi.org/10.5281/zenodo.18877400)
 
 Replication code for **"The Shape of Beta: Industry Factor Structure and Crisis Risk Premium"** (Woo & Kim, 2026), submitted to the *Journal of Financial Stability*.
 
